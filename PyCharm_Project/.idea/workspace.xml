@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bc2488ae-dda1-4cf1-bc54-cf43215ef10e" name="默认的" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/PyCharm_Project$file_task.coverage" NAME="file-task Coverage Results" MODIFIED="1524992418856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/预科-python/文件和异常" />
+    <SUITE FILE_PATH="coverage/PyCharm_Project$time.coverage" NAME="time Coverage Results" MODIFIED="1525344920990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/预科-python/数据类型" />
+    <SUITE FILE_PATH="coverage/PyCharm_Project$01_multiprocessing.coverage" NAME="01-multiprocessing Coverage Results" MODIFIED="1526043145936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/预科-python/进程与线程" />
+    <SUITE FILE_PATH="coverage/PyCharm_Project$batch.coverage" NAME="batch Coverage Results" MODIFIED="1524597009530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HyperLPR-master" />
+    <SUITE FILE_PATH="coverage/PyCharm_Project$CarCardRecognition.coverage" NAME="CarCardRecognition Coverage Results" MODIFIED="1524656921810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/车牌识别" />
+    <SUITE FILE_PATH="coverage/PyCharm_Project$gmm.coverage" NAME="gmm Coverage Results" MODIFIED="1544949965008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MLAlgorithm" />
+    <SUITE FILE_PATH="coverage/PyCharm_Project$DCTree.coverage" NAME="DCTree Coverage Results" MODIFIED="1539221812073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MLAlgorithm/DCTree" />
+    <SUITE FILE_PATH="coverage/PyCharm_Project$SlashCoordinateTest.coverage" NAME="SlashCoordinateTest Coverage Results" MODIFIED="1544338580226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MLAlgorithm/eample01" />
+    <SUITE FILE_PATH="coverage/PyCharm_Project$try.coverage" NAME="try Coverage Results" MODIFIED="1525260946044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/预科-python/文件和异常" />
+    <SUITE FILE_PATH="coverage/PyCharm_Project$DrawingInteraction.coverage" NAME="DrawingInteraction Coverage Results" MODIFIED="1544338614558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MLAlgorithm/eample01" />
+    <SUITE FILE_PATH="coverage/PyCharm_Project$PlotStraightLine.coverage" NAME="PlotStraightLine Coverage Results" MODIFIED="1544444081183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MatplotlibExample" />
+    <SUITE FILE_PATH="coverage/PyCharm_Project$main.coverage" NAME="main Coverage Results" MODIFIED="1524991728445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/预科-python/模块/module2" />
+    <SUITE FILE_PATH="coverage/PyCharm_Project$scatterPlot.coverage" NAME="scatterPlot Coverage Results" MODIFIED="1544498186790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MatplotlibExample" />
+    <SUITE FILE_PATH="coverage/PyCharm_Project$MatrixDataSet.coverage" NAME="MatrixDataSet Coverage Results" MODIFIED="1544338665265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MLAlgorithm/eample01" />
+    <SUITE FILE_PATH="coverage/PyCharm_Project$HeartProgram.coverage" NAME="HeartProgram Coverage Results" MODIFIED="1544943884613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MLAlgorithm/eample01" />
+    <SUITE FILE_PATH="coverage/PyCharm_Project$ospy.coverage" NAME="ospy Coverage Results" MODIFIED="1524995147047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/预科-python/文件和异常" />
+    <SUITE FILE_PATH="coverage/PyCharm_Project$a.coverage" NAME="a Coverage Results" MODIFIED="1525259173223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/预科-python/文件和异常" />
+    <SUITE FILE_PATH="coverage/PyCharm_Project$01_threding.coverage" NAME="01-threding Coverage Results" MODIFIED="1525702658158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/预科-python/进程与线程" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="SlashCoordinateTest.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MLAlgorithm/eample01/SlashCoordinateTest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="barChartPlot.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MatplotlibExample/barChartPlot.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="69" column="28" selection-start-line="69" selection-start-column="28" selection-end-line="69" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="histPlot.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MatplotlibExample/histPlot.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="25" column="10" lean-forward="true" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HeartProgram.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MLAlgorithm/eample01/HeartProgram.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DrawingInteraction.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MLAlgorithm/eample01/DrawingInteraction.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-8">
+              <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+              <folding>
+                <element signature="e#16#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MatrixDataSet.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MLAlgorithm/eample01/MatrixDataSet.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="Python Stub" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/预科-python/文件和异常/ospy.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/预科-python/文件和异常/try.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/预科-python/进程与线程/01-threding.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/车牌识别/CarCardRecognition.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/预科-python/文件和异常/time.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/预科-python/模块/module1/module1.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MLAlgorithm/DCTree/DCTree.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/预科-python/模块/module2/main.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/预科-python/进程与线程/01-multiprocessing.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/预科-python/面向对象/name01.py" />
+        <option value="$PROJECT_DIR$/预科-python/面向对象/02练习.py" />
+        <option value="$PROJECT_DIR$/爬虫应用/creeper.py" />
+        <option value="$PROJECT_DIR$/预科-python/面向对象/inherit.py" />
+        <option value="$PROJECT_DIR$/预科-python/面向对象/类方法_静态方法.py" />
+        <option value="$PROJECT_DIR$/预科-python/面向对象/Admin.py" />
+        <option value="$PROJECT_DIR$/预科-python/面向对象/03练习.py" />
+        <option value="$PROJECT_DIR$/预科-python/面向对象/04练习.py" />
+        <option value="$PROJECT_DIR$/预科-python/模块/module1.py" />
+        <option value="$PROJECT_DIR$/预科-python/模块/module2.py" />
+        <option value="$PROJECT_DIR$/预科-python/模块/module2/study/test2.py" />
+        <option value="$PROJECT_DIR$/预科-python/模块/msg/send.py" />
+        <option value="$PROJECT_DIR$/预科-python/模块/msg/recv.py" />
+        <option value="$PROJECT_DIR$/预科-python/模块/msg/math.py" />
+        <option value="$PROJECT_DIR$/预科-python/模块/msg/__inint__.py" />
+        <option value="$PROJECT_DIR$/预科-python/模块/module2/test.py" />
+        <option value="$PROJECT_DIR$/预科-python/模块/module2/main.py" />
+        <option value="$PROJECT_DIR$/预科-python/文件和异常/python.text.py" />
+        <option value="$PROJECT_DIR$/预科-python/文件和异常/python.text" />
+        <option value="$PROJECT_DIR$/预科-python/文件和异常/learning_python.text" />
+        <option value="$PROJECT_DIR$/预科-python/文件和异常/file-task.py" />
+        <option value="$PROJECT_DIR$/HyperLPR-master/benchmark.py" />
+        <option value="$PROJECT_DIR$/HyperLPR-master/hyperlpr/cache.py" />
+        <option value="$PROJECT_DIR$/HyperLPR-master/batch.py" />
+        <option value="$PROJECT_DIR$/HyperLPR-master/wxpy_uploader.py" />
+        <option value="$PROJECT_DIR$/车牌识别/CarCardRecognition.py" />
+        <option value="$PROJECT_DIR$/预科-python/文件和异常/01_file.py" />
+        <option value="$PROJECT_DIR$/预科-python/文件和异常/ospy.py" />
+        <option value="$PROJECT_DIR$/预科-python/文件和异常/q.py" />
+        <option value="$PROJECT_DIR$/预科-python/文件和异常/q.pyi" />
+        <option value="$PROJECT_DIR$/预科-python/文件和异常/a.py" />
+        <option value="$PROJECT_DIR$/预科-python/文件和异常/try.py" />
+        <option value="$PROJECT_DIR$/预科-python/数据类型/time.py" />
+        <option value="$PROJECT_DIR$/预科-python/文件和异常/time.py" />
+        <option value="$PROJECT_DIR$/预科-python/进程与线程/01-threding.py" />
+        <option value="$PROJECT_DIR$/预科-python/进程与线程/file.text" />
+        <option value="$PROJECT_DIR$/预科-python/进程与线程/01-multiprocessing.py" />
+        <option value="$PROJECT_DIR$/预科-python/进程与线程/02-poool.py" />
+        <option value="$PROJECT_DIR$/MLAlgorithm/DCTree/DCTree.py" />
+        <option value="$PROJECT_DIR$/MLAlgorithm/eample01/lineaRegression.py" />
+        <option value="$PROJECT_DIR$/MLAlgorithm/eample01/HeartProgram.py" />
+        <option value="$PROJECT_DIR$/MLAlgorithm/eample01/DrawingInteraction.py" />
+        <option value="$PROJECT_DIR$/MLAlgorithm/eample01/MatrixDataSet.py" />
+        <option value="$PROJECT_DIR$/MLAlgorithm/eample01/NeuralNtworkDemo01.py" />
+        <option value="$PROJECT_DIR$/MatplotlibExample/PlotStraightLine.py" />
+        <option value="$PROJECT_DIR$/MatplotlibExample/histPlot.py" />
+        <option value="$PROJECT_DIR$/MatplotlibExample/scatterPlot.py" />
+        <option value="$PROJECT_DIR$/MatplotlibExample/brokenLinePlot.py" />
+        <option value="$PROJECT_DIR$/MatplotlibExample/barChartPlot.py" />
+        <option value="$PROJECT_DIR$/MatplotlibExample/xgboost01.py" />
+        <option value="$PROJECT_DIR$/MLAlgorithm/gmm.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1620" />
+    <option name="height" value="870" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/outlier-detect-master" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\" />
+      <recent name="E:\DongZhi's Files\MyProject\PyCharm_Project\车牌识别" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\DongzhiProjects\PyCharm_Project\预科-python\文件和异常" />
+      <recent name="E:\我的文件\其他\PyCharm_Project\预科-python\模块\module2" />
+      <recent name="E:\我的文件\其他\PyCharm_Project\预科-python\模块\module1" />
+      <recent name="E:\我的文件\其他\PyCharm_Project\预科-python" />
+      <recent name="E:\我的文件\其他\PyCharm_Project\变量" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.gmm">
+    <configuration name="HeartProgram" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PyCharm_Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MLAlgorithm/eample01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MLAlgorithm/eample01/HeartProgram.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="barChartPlot" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PyCharm_Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MatplotlibExample" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MatplotlibExample/barChartPlot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="brokenLinePlot" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PyCharm_Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MatplotlibExample" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MatplotlibExample/brokenLinePlot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="gmm" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PyCharm_Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MLAlgorithm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MLAlgorithm/gmm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="xgboost01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PyCharm_Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MatplotlibExample" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MatplotlibExample/xgboost01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.brokenLinePlot" />
+      <item itemvalue="Python.barChartPlot" />
+      <item itemvalue="Python.xgboost01" />
+      <item itemvalue="Python.HeartProgram" />
+      <item itemvalue="Python.gmm" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.gmm" />
+        <item itemvalue="Python.HeartProgram" />
+        <item itemvalue="Python.xgboost01" />
+        <item itemvalue="Python.barChartPlot" />
+        <item itemvalue="Python.brokenLinePlot" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\18675\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <created>1524532320483</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1524532320483</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="696" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="14" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.16458659" side_tool="true" weight="0.27022377" />
+      <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" x="897" y="152" width="373" height="485" id="Run" order="15" sideWeight="0.8354134" visible="true" weight="0.25746268" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.43396226" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.12734374" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="right" id="SciView" order="0" sideWeight="0.5231561" visible="true" weight="0.2786753" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="6" sideWeight="0.49843994" weight="0.39965695" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="找到" order="13" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="运行" order="10" weight="0.26353276" />
+      <window_info anchor="right" x="0" y="0" width="274" height="496" id="Documentation" order="5" sideWeight="0.47684392" side_tool="true" visible="true" weight="0.27925116" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="调试" order="12" weight="0.3288889" />
+      <window_info anchor="bottom" id="Find" order="5" sideWeight="0.49921876" weight="0.32854578" />
+      <window_info active="true" anchor="bottom" id="Concurrent Activities Diagram" order="16" sideWeight="0.49921995" visible="true" weight="0.32933104" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="27" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/预科-python/面向对象/02练习.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5">
+          <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/预科-python/面向对象/01类定义.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-834">
+          <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/预科-python/模块/module2/study/test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/预科-python/模块/msg/math.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="21" lean-forward="true" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫应用/creeper.py" />
+    <entry file="file://$PROJECT_DIR$/预科-python/模块/msg/send.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/预科-python/模块/msg/recv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/预科-python/模块/msg/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/预科-python/模块/module2/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/预科-python/模块/module1/module1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="24" selection-start-line="24" selection-end-line="25" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/预科-python/文件和异常/python.text.py" />
+    <entry file="file://$PROJECT_DIR$/预科-python/文件和异常/python.text">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/预科-python/文件和异常/learning_python.text">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/预科-python/面向对象/inherit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="26" column="20" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/预科-python/函数/function04.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1152">
+          <caret line="72" selection-start-line="72" selection-end-line="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HyperLPR-master/hyperlpr/cache.py" />
+    <entry file="file://$PROJECT_DIR$/HyperLPR-master/hyperlpr_py3/colourDetection.py" />
+    <entry file="file://$PROJECT_DIR$/HyperLPR-master/hyperlpr_py3/cache.py" />
+    <entry file="file://$PROJECT_DIR$/HyperLPR-master/hyperlpr_py3/pipline.py" />
+    <entry file="file://$PROJECT_DIR$/HyperLPR-master/batch.py" />
+    <entry file="file://$PROJECT_DIR$/HyperLPR-master/wxpy_uploader.py" />
+    <entry file="file://$PROJECT_DIR$/HyperLPR-master/upload.py" />
+    <entry file="file://$PROJECT_DIR$/HyperLPR-master/benchmark.py" />
+    <entry file="file://$PROJECT_DIR$/车牌识别/CarCardRecognition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-144">
+          <caret line="15" column="37" lean-forward="true" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/预科-python/模块/module2/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="83" selection-start-line="83" selection-end-line="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/预科-python/文件和异常/01_file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="19" column="8" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/预科-python/文件和异常/file-task.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="45" column="14" selection-start-line="45" selection-start-column="14" selection-end-line="45" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/预科-python/文件和异常/q.py" />
+    <entry file="file://$PROJECT_DIR$/预科-python/文件和异常/a.py" />
+    <entry file="file://$PROJECT_DIR$/预科-python/文件和异常/aaa.text">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" lean-forward="true" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/预科-python/文件和异常/time.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1440">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/预科-python/文件和异常/try.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1264">
+          <caret line="79" column="8" selection-start-line="79" selection-start-column="8" selection-end-line="79" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/预科-python/进程与线程/02-poool.py" />
+    <entry file="file://D:/MySoftware0/Anaconda/Anaconda_install/Lib/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="3248" column="4" selection-start-line="3248" selection-start-column="4" selection-end-line="3248" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MLAlgorithm/DCTree/DCTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="184" column="26" selection-start-line="184" selection-start-column="26" selection-end-line="184" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/预科-python/进程与线程/01-multiprocessing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="42" column="31" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/预科-python/进程与线程/01-threding.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/预科-python/文件和异常/ospy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MLAlgorithm/eample01/MatrixDataSet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MatplotlibExample/PlotStraightLine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="10" lean-forward="true" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MatplotlibExample/brokenLinePlot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MLAlgorithm/eample01/SlashCoordinateTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MatplotlibExample/scatterPlot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/MySoftware0/Anaconda/Anaconda_install/Lib/site-packages/xgboost/sklearn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3187">
+          <caret line="584" column="24" selection-start-line="584" selection-start-column="24" selection-end-line="584" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/MySoftware0/Anaconda/Anaconda_install/Lib/site-packages/xgboost/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="19" column="34" lean-forward="true" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MatplotlibExample/xgboost01.py" />
+    <entry file="file://$PROJECT_DIR$/MatplotlibExample/barChartPlot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="69" column="28" selection-start-line="69" selection-start-column="28" selection-end-line="69" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MLAlgorithm/eample01/DrawingInteraction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+          <folding>
+            <element signature="e#16#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MLAlgorithm/gmm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MLAlgorithm/eample01/HeartProgram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MatplotlibExample/histPlot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="25" column="10" lean-forward="true" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
